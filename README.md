@@ -1,6 +1,4 @@
-Absolutely, Aditi! Here's a professional and clean **README.md** description for your full-stack authentication project, ready to paste into your GitHub repo:
 
----
 
 ## 🔐 Full-Stack Authentication System with Spring Boot & ReactJS
 
@@ -74,6 +72,4 @@ POST   /update-password
 **Aditi Yerra**
 Connect with me on [LinkedIn](https://linkedin.com/in/aditiyerra) • Explore more on [GitHub](https://github.com/aditiz11)
 
----
 
-Let me know if you'd like to add **badges**, a **live demo link**, or clean styling with emojis!
