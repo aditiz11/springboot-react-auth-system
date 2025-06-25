@@ -37,14 +37,6 @@ POST   /reset-password
 POST   /update-password
 ```
 
----
-
-### 📸 Demo
-
-*(Add a screenshot or short GIF of the login/register page if you have one)*
-
----
-
 ### 📦 Getting Started
 
 1. Clone the repo
