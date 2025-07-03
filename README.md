@@ -62,6 +62,6 @@ POST   /update-password
 ### 🙋‍♀️ Author
 
 **Aditi Yerra**
-Connect with me on [LinkedIn](https://linkedin.com/in/aditiyerra) • Explore more on [GitHub](https://github.com/aditiz11)
+Connect with me on [LinkedIn](https://linkedin.com/in/aditiyerra11) • Explore more on [GitHub](https://github.com/aditiz11)
 
 
